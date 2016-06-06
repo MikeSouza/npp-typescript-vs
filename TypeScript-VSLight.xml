@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">if else switch do while for in break continue case default return with constructor declare as interface module abstract enum int short boolean export interface static byte extends long super char final native synchronized class float package throws const goto private transient debugger implements protected volatile double import public try catch throw finally this let var void yield delete new instanceof typeof function contained alert confirm prompt status string number bool any undefined null true false</Keywords>
+            <Keywords name="Keywords1">if else switch do while for in break continue case default return with constructor declare as interface module abstract enum int short boolean export interface static byte extends long super char final native synchronized class float package throws const goto private transient debugger implements protected volatile double import from public try catch throw finally this let var void yield delete new instanceof typeof function contained alert confirm prompt status string number bool any undefined null true false</Keywords>
             <Keywords name="Keywords2"></Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4">prototype</Keywords>
